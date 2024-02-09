@@ -10,3 +10,6 @@ The link to this site is [Kevin G's Website](https://OhKevinG.github.io).
 1. Typhlosion
 2. Jolteon
 3. Dragonite
+
+![Jolteon](https://github.com/OhKevinG/OhKevinG.github.io/assets/142842858/22cccb34-8e93-4609-9aa7-56574e3cd591)
+
